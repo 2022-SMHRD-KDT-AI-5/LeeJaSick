@@ -10,5 +10,8 @@ public class Test {
 		System.out.println("테스트");
 		
 		System.out.println("테스트2");
+		System.out.println("창규쓰");
+		System.out.println("나린쓰");
+		
 	}
 }
